@@ -83,11 +83,19 @@ h1 {
   to {opacity: 1}
 }
 
-.text {
+#text {
     color: #800000;
     text-align: center;
     text-shadow: 2px 1px #732626;
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 15px;
+}
+
+#text h2{
+    color: #800000;
+    text-align: left;
+    text-shadow: 3px 2px #732626;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 25px;
     font-weight: bold;
 }
