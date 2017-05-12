@@ -17,20 +17,15 @@
 	</head>
 
 	<body>
+		<h1>
+			Vote Communist, Vote Freedom, Vote Billy
+		</h1>
 		<img src="images/IMG_1997.JPG" alt="KOMRADE BILLY KOMANDS YOU TO RISE">
 		<img src="images/IMG_1998.JPG" alt="KOMRADE BILLY SERVES ALL">
 		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
 		<img src="images/IMG_2002.JPG" alt="KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE">
-		<form action="work.php" method="post">
-			Will you vote for Billy?: <input type="button" value="Yes">  <input type="button" value="No"><br>
-			Say something about Billy: <input type="text" name="COMMENT"><br>
-			<input type="submit">
-		</form>
 		<h2>
 			This is what the community thinks of our grand leader Billy:
 		</h2>
-		<p>
-			<embed src="comments.txt">
-		</p>
 	</body>
 </html>
