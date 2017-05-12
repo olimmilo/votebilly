@@ -2,7 +2,7 @@ body {
     background-image: url("/images/IMG_2007.JPG");
 }
 h1,h2 {
-    background-image: url("/images/IMG_2008.JPG");
+    background-color: #FF0000;
 }
 
 * {box-sizing:border-box}
@@ -42,26 +42,6 @@ h1,h2 {
 /* On hover, add a black background color with a little bit see-through */
 .prev:hover, .next:hover {
   background-color: rgba(0,0,0,0.8);
-}
-
-/* Caption text */
-.text {
-  color: #f2f2f2;
-  font-size: 15px;
-  padding: 8px 12px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-/* Number text (1/3 etc) */
-.numbertext {
-  color: #f2f2f2;
-  font-size: 12px;
-  padding: 8px 12px;
-  position: absolute;
-  top: 0;
 }
 
 /* The dots/bullets/indicators */
