@@ -111,3 +111,10 @@ br {
     font-size: 25px;
     font-weight: bold;
 }
+
+br {
+    display: block;
+    margin-bottom: 2px;
+    font-size:2px;
+    line-height: 2px;
+}
