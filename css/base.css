@@ -85,15 +85,19 @@ h1 {
 
 #text {
     color: #800000;
-    text-align: center;
+    text-align: left;
     text-shadow: 2px 1px #732626;
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 15px;
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
 
 #text h2{
     color: #800000;
-    text-align: left;
+    text-align: center;
     text-shadow: 3px 2px #732626;
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 25px;
