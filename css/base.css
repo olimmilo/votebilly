@@ -82,3 +82,12 @@ h1 {
   from {opacity: .4} 
   to {opacity: 1}
 }
+
+.text {
+    color: #800000;
+    text-align: center;
+    text-shadow: 2px 1px #732626;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 15px;
+    font-weight: bold;
+}
