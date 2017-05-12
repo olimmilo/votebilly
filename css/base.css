@@ -90,6 +90,21 @@ h1 {
     font-family: "Lucida Console", Monaco, monospace;
     font-size: 15px;
     background-color: black;
+    background-color: 
+        -webkit-gradient(
+        linear,
+        left bottom,
+        left top,
+        color-stop(0.15, rgb(189,189,189)),
+        color-stop(0.58, rgb(0,0,0)),
+        color-stop(0.79, rgb(0,0,0))
+    )
+    -moz-linear-gradient(
+        center bottom,
+        rgb(189,189,189) 15%,
+        rgb(0,0,0) 58%,
+        rgb(0,0,0) 79%
+    )
     position: fixed;
     bottom: 0;
     right: 0;
