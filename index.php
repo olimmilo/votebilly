@@ -20,14 +20,70 @@
 		<h1>
 			Vote Communist, Vote Freedom, Vote Billy
 		</h1>
-		<img src="images/IMG_1997.JPG" alt="KOMRADE BILLY KOMANDS YOU TO FOLLOW">
-		<img src="images/IMG_1998.JPG" alt="KOMRADE BILLY SERVES ALL">
-		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
-		<img src="images/IMG_2002.JPG" alt="KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE">
-		<img src="images/IMG_2003.JPG" alt="THE ERA OF TYRANY AT HHS IS OVER">
-		<img src="images/IMG_2004.JPG" alt="LET US RISE BEHIND OUR TRUE KOMRADE">
-		<img src="images/IMG_2005.JPG" alt="BILLY SHALL PREVAIL">
-		<img src="images/IMG_2006.JPG" alt="LOVE YOUR LEADER"> 
+		
+		
+		<div class="slideshow-container">
+			<div class="mySlides fade">
+				<div class="numbertext">1 / 3</div>
+					<img src="images/IMG_1997.JPG" style="width:100%">
+				<div class="text">KOMRADE BILLY KOMANDS YOU TO FOLLOW</div>
+			</div>
+
+			<div class="mySlides fade">
+				<div class="numbertext">2 / 3</div>
+					<img src="images/IMG_1998.JPG" style="width:100%">
+				<div class="text">KOMRADE BILLY SERVES ALL</div>
+			</div>
+
+			<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="images/IMG_2001.JPG" style="width:100%">
+				<div class="text">SUBMIT TO KOMRADE BILLY</div>
+			</div>
+			
+			<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="images/IMG_2002.JPG" style="width:100%">
+				<div class="text">KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE</div>
+			</div>
+			
+			<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="images/IMG_2003.JPG" style="width:100%">
+				<div class="text">THE ERA OF TYRANY AT HHS IS OVER</div>
+			</div>
+			
+			<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="images/IMG_2004.JPG" style="width:100%">
+				<div class="text">LET US RISE BEHIND OUR TRUE KOMRADE</div>
+			</div>
+			
+			<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="images/IMG_2005.JPG" style="width:100%">
+				<div class="text">BILLY SHALL PREVAIL</div>
+			</div>
+			
+			<div class="mySlides fade">
+				<div class="numbertext">3 / 3</div>
+					<img src="images/IMG_2006.JPG" style="width:100%">
+				<div class="text">LOVE YOUR LEADER</div>
+			</div>
+
+			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+			<a class="next" onclick="plusSlides(1)">&#10095;</a>
+		</div>
+		<br>
+
+		<div style="text-align:center">
+			<span class="dot" onclick="currentSlide(1)"></span> 
+			<span class="dot" onclick="currentSlide(2)"></span> 
+			<span class="dot" onclick="currentSlide(3)"></span> 
+		</div>
+		
+		
+		
 		<embed src="/images/Communist Party USA (Soviet Anthem In English).mp3" autostart="true" loop="true" hidden="true"> 
 		<h2>
 			This is what the community thinks of our grand leader Billy:
