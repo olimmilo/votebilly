@@ -20,14 +20,14 @@
 		<h1>
 			Vote Communist, Vote Freedom, Vote Billy
 		</h1>
-		<img src="images/IMG_1997.JPG" alt="KOMRADE BILLY KOMANDS YOU TO RISE">
+		<img src="images/IMG_1997.JPG" alt="KOMRADE BILLY KOMANDS YOU TO FOLLOW">
 		<img src="images/IMG_1998.JPG" alt="KOMRADE BILLY SERVES ALL">
 		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
 		<img src="images/IMG_2002.JPG" alt="KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE">
-		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
-		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
-		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
-		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY"> 
+		<img src="images/IMG_2003.JPG" alt="THE ERA OF TYRANY AT HHS IS OVER">
+		<img src="images/IMG_2004.JPG" alt="LET US RISE BEHIND OUR TRUE KOMRADE">
+		<img src="images/IMG_2005.JPG" alt="BILLY SHALL PREVAIL">
+		<img src="images/IMG_2006.JPG" alt="LOVE YOUR LEADER"> 
 		<h2>
 			This is what the community thinks of our grand leader Billy:
 		</h2>
