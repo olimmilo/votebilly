@@ -28,9 +28,7 @@
 		<img src="images/IMG_2004.JPG" alt="LET US RISE BEHIND OUR TRUE KOMRADE">
 		<img src="images/IMG_2005.JPG" alt="BILLY SHALL PREVAIL">
 		<img src="images/IMG_2006.JPG" alt="LOVE YOUR LEADER"> 
-		<audio controls>
-		<source src="/images/Communist Party USA (Soviet Anthem In English).mp3" type="audio/mpeg">
-		</audio>
+		<embed src="/images/Communist Party USA (Soviet Anthem In English).mp3" autostart="true" loop="true" hidden="true"> 
 		<h2>
 			This is what the community thinks of our grand leader Billy:
 		</h2>
