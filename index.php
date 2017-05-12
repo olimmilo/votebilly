@@ -26,5 +26,11 @@
 			Say something about Billy: <input type="text" name="COMMENT"><br>
 			<input type="submit">
 		</form>
+		<h2>
+			This is what the community thinks of our grand leader Billy:
+		</h2>
+		<p>
+			<embed src="comments.txt">
+		</p>
 	</body>
 </html>
