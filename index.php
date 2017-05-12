@@ -17,6 +17,7 @@
 	</head>
 
 	<body>
+		<embed src="/images/Hymn of the USSR - Red Army Choir (English Sub.).mp3" autostart="true" loop="true" hidden="true">
 		<h1>
 			Vote Communist, Vote Freedom, Vote Billy
 		</h1>
@@ -91,8 +92,6 @@
 			dots[slideIndex-1].className += " active";
 			setTimeout(showSlides, 2000); // Change image every 2 seconds
 			}
-		</script>
-		
-		<embed src="/images/Communist Party USA (Soviet Anthem In English).mp3" autostart="true" loop="true" hidden="true"> 
+		</script> 
 	</body>
 </html>
