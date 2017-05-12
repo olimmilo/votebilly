@@ -93,5 +93,13 @@
 			setTimeout(showSlides, 2000); // Change image every 2 seconds
 			}
 		</script> 
+		<div id="text">
+			<h2>
+				What Hanover High Students think of Komrade Billy:
+			</h2>
+			<p>
+				"He is Hanover's last best hope!"
+			</p>
+		</div>
 	</body>
 </html>
