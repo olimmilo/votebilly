@@ -37,6 +37,12 @@ h1 {
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
 }
+br {
+    display: block;
+    margin-bottom: 2px;
+    font-size:2px;
+    line-height: 2px;
+}
 
 /* Position the "next button" to the right */
 .next {
