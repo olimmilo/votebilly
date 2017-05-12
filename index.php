@@ -98,7 +98,9 @@
 				What Hanover High Students think of Komrade Billy:
 			</h2>
 			<p>
-				"He is Hanover's last best hope!"
+				"He is Hanover's last best hope!" <br>
+				"Although HHS administration portrays our great leader as an evil man and his people as impoverished, we can assure you that our Dear Leader will lead us towards the true light." <br>
+				
 			</p>
 		</div>
 	</body>
