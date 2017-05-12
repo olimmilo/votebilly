@@ -24,49 +24,49 @@
 		
 		<div class="slideshow-container">
 			<div class="mySlides fade">
-				<div class="numbertext">1 / 3</div>
+				<div class="numbertext">1 / 8</div>
 					<img src="images/IMG_1997.JPG" style="width:100%">
 				<div class="text">KOMRADE BILLY KOMANDS YOU TO FOLLOW</div>
 			</div>
 
 			<div class="mySlides fade">
-				<div class="numbertext">2 / 3</div>
+				<div class="numbertext">2 / 8</div>
 					<img src="images/IMG_1998.JPG" style="width:100%">
 				<div class="text">KOMRADE BILLY SERVES ALL</div>
 			</div>
 
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
+				<div class="numbertext">3 / 8</div>
 					<img src="images/IMG_2001.JPG" style="width:100%">
 				<div class="text">SUBMIT TO KOMRADE BILLY</div>
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
+				<div class="numbertext">4 / 8</div>
 					<img src="images/IMG_2002.JPG" style="width:100%">
 				<div class="text">KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE</div>
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
+				<div class="numbertext">5 / 8</div>
 					<img src="images/IMG_2003.JPG" style="width:100%">
 				<div class="text">THE ERA OF TYRANY AT HHS IS OVER</div>
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
+				<div class="numbertext">6 / 8</div>
 					<img src="images/IMG_2004.JPG" style="width:100%">
 				<div class="text">LET US RISE BEHIND OUR TRUE KOMRADE</div>
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
+				<div class="numbertext">7 / 8</div>
 					<img src="images/IMG_2005.JPG" style="width:100%">
 				<div class="text">BILLY SHALL PREVAIL</div>
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 3</div>
+				<div class="numbertext">8 / 8</div>
 					<img src="images/IMG_2006.JPG" style="width:100%">
 				<div class="text">LOVE YOUR LEADER</div>
 			</div>
