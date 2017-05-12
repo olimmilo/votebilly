@@ -24,6 +24,10 @@
 		<img src="images/IMG_1998.JPG" alt="KOMRADE BILLY SERVES ALL">
 		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
 		<img src="images/IMG_2002.JPG" alt="KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE">
+		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
+		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
+		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY">
+		<img src="images/IMG_2001.JPG" alt="SUBMIT TO KOMRADE BILLY"> 
 		<h2>
 			This is what the community thinks of our grand leader Billy:
 		</h2>
