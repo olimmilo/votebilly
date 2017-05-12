@@ -1,8 +1,8 @@
 body {
     background-image: url("/images/IMG_2007.JPG");
 }
-h1,h2 {
-    background-color: #FF0000;
+h1 {
+    color: #FF0000;
 }
 
 * {box-sizing:border-box}
