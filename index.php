@@ -24,51 +24,35 @@
 		
 		<div class="slideshow-container">
 			<div class="mySlides fade">
-				<div class="numbertext">1 / 8</div>
-					<img src="images/IMG_1997.JPG" style="width:100%">
-				<div class="text">KOMRADE BILLY KOMANDS YOU TO FOLLOW</div>
+				<img src="images/IMG_1997.JPG" style="width:100%">
 			</div>
 
 			<div class="mySlides fade">
-				<div class="numbertext">2 / 8</div>
-					<img src="images/IMG_1998.JPG" style="width:100%">
-				<div class="text">KOMRADE BILLY SERVES ALL</div>
+				<img src="images/IMG_1998.JPG" style="width:100%">
 			</div>
 
 			<div class="mySlides fade">
-				<div class="numbertext">3 / 8</div>
-					<img src="images/IMG_2001.JPG" style="width:100%">
-				<div class="text">SUBMIT TO KOMRADE BILLY</div>
+				<img src="images/IMG_2001.JPG" style="width:100%">
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">4 / 8</div>
-					<img src="images/IMG_2002.JPG" style="width:100%">
-				<div class="text">KOMRADE BILLY REPRESENTS A BRIGHTER PATH TO THE FUTURE</div>
+				<img src="images/IMG_2002.JPG" style="width:100%">
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">5 / 8</div>
-					<img src="images/IMG_2003.JPG" style="width:100%">
-				<div class="text">THE ERA OF TYRANY AT HHS IS OVER</div>
+				<img src="images/IMG_2003.JPG" style="width:100%">
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">6 / 8</div>
-					<img src="images/IMG_2004.JPG" style="width:100%">
-				<div class="text">LET US RISE BEHIND OUR TRUE KOMRADE</div>
+				<img src="images/IMG_2004.JPG" style="width:100%">
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">7 / 8</div>
-					<img src="images/IMG_2005.JPG" style="width:100%">
-				<div class="text">BILLY SHALL PREVAIL</div>
+				<img src="images/IMG_2005.JPG" style="width:100%">
 			</div>
 			
 			<div class="mySlides fade">
-				<div class="numbertext">8 / 8</div>
-					<img src="images/IMG_2006.JPG" style="width:100%">
-				<div class="text">LOVE YOUR LEADER</div>
+				<img src="images/IMG_2006.JPG" style="width:100%">
 			</div>
 
 			<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -80,6 +64,11 @@
 			<span class="dot" onclick="currentSlide(1)"></span> 
 			<span class="dot" onclick="currentSlide(2)"></span> 
 			<span class="dot" onclick="currentSlide(3)"></span> 
+			<span class="dot" onclick="currentSlide(4)"></span> 
+			<span class="dot" onclick="currentSlide(5)"></span> 
+			<span class="dot" onclick="currentSlide(6)"></span> 
+			<span class="dot" onclick="currentSlide(7)"></span> 
+			<span class="dot" onclick="currentSlide(8)"></span> 
 		</div>
 		
 		<script>
@@ -112,8 +101,5 @@
 		</script>
 		
 		<embed src="/images/Communist Party USA (Soviet Anthem In English).mp3" autostart="true" loop="true" hidden="true"> 
-		<h2>
-			This is what the community thinks of our grand leader Billy:
-		</h2>
 	</body>
 </html>
